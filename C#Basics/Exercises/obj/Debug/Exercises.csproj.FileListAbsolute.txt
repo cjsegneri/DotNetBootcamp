@@ -1,0 +1,7 @@
+C:\Code\DotNetBootcamp\C#Basics\Exercises\bin\Debug\Exercises.exe.config
+C:\Code\DotNetBootcamp\C#Basics\Exercises\bin\Debug\Exercises.exe
+C:\Code\DotNetBootcamp\C#Basics\Exercises\bin\Debug\Exercises.pdb
+C:\Code\DotNetBootcamp\C#Basics\Exercises\obj\Debug\Exercises.csprojAssemblyReference.cache
+C:\Code\DotNetBootcamp\C#Basics\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Code\DotNetBootcamp\C#Basics\Exercises\obj\Debug\Exercises.exe
+C:\Code\DotNetBootcamp\C#Basics\Exercises\obj\Debug\Exercises.pdb
