@@ -10,7 +10,7 @@ namespace Exercises
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Conditionals.Exercise4();
         }
     }
 }
