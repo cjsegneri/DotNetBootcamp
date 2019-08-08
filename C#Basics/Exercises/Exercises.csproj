@@ -43,9 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Loops.cs" />
     <Compile Include="Conditionals.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solutions\LoopsSol.cs" />
     <Compile Include="Solutions\ConditionalsSol.cs" />
   </ItemGroup>
   <ItemGroup>
