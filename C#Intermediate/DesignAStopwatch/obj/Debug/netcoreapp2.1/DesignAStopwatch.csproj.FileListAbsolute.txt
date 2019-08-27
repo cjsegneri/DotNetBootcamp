@@ -1,0 +1,11 @@
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStopwatch\bin\Debug\netcoreapp2.1\DesignAStopwatch.deps.json
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStopwatch\bin\Debug\netcoreapp2.1\DesignAStopwatch.runtimeconfig.json
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStopwatch\bin\Debug\netcoreapp2.1\DesignAStopwatch.runtimeconfig.dev.json
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStopwatch\bin\Debug\netcoreapp2.1\DesignAStopwatch.dll
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStopwatch\bin\Debug\netcoreapp2.1\DesignAStopwatch.pdb
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStopwatch\obj\Debug\netcoreapp2.1\DesignAStopwatch.csprojAssemblyReference.cache
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStopwatch\obj\Debug\netcoreapp2.1\DesignAStopwatch.csproj.CoreCompileInputs.cache
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStopwatch\obj\Debug\netcoreapp2.1\DesignAStopwatch.AssemblyInfoInputs.cache
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStopwatch\obj\Debug\netcoreapp2.1\DesignAStopwatch.AssemblyInfo.cs
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStopwatch\obj\Debug\netcoreapp2.1\DesignAStopwatch.dll
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStopwatch\obj\Debug\netcoreapp2.1\DesignAStopwatch.pdb
