@@ -1,0 +1,11 @@
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStack\bin\Debug\netcoreapp2.1\DesignAStack.deps.json
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStack\bin\Debug\netcoreapp2.1\DesignAStack.runtimeconfig.json
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStack\bin\Debug\netcoreapp2.1\DesignAStack.runtimeconfig.dev.json
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStack\bin\Debug\netcoreapp2.1\DesignAStack.dll
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStack\bin\Debug\netcoreapp2.1\DesignAStack.pdb
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStack\obj\Debug\netcoreapp2.1\DesignAStack.csprojAssemblyReference.cache
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStack\obj\Debug\netcoreapp2.1\DesignAStack.csproj.CoreCompileInputs.cache
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStack\obj\Debug\netcoreapp2.1\DesignAStack.AssemblyInfoInputs.cache
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStack\obj\Debug\netcoreapp2.1\DesignAStack.AssemblyInfo.cs
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStack\obj\Debug\netcoreapp2.1\DesignAStack.dll
+C:\Code\DotNetBootcamp\C#Intermediate\DesignAStack\obj\Debug\netcoreapp2.1\DesignAStack.pdb
